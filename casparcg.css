@@ -1,6 +1,7 @@
 * {
 	text-rendering: geometricPrecision;
-    font-kerning: normal;
+	font-kerning: normal;
+	white-space: nowrap;
 }
 html {
     -webkit-box-sizing: border-box;
